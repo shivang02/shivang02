@@ -1,7 +1,7 @@
 # Hi there, My name is Shivang Dubey🙏
 
 <div align="center">
-<img src="https://github.com/CryptoSingh1337/CryptoSingh1337/blob/master/icons/code.gif" height="360px" width="640px" alt="gif"/>
+<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="360px" width="640px" alt="gif"/>
 </div>
 
 ## I'm a Student at Amity University, Noida!<img src="https://komarev.com/ghpvc/?username=shivang02" alt="counter" align="right"/>
