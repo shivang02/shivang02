@@ -9,8 +9,9 @@
 - 🔭 I’m currently working on developing my coding skills and making projects!
 - 🌱 I’m currently learning Machine Learning and AWS.
 - ⚡ Fun fact: I enjoy Movies, Manga and Minecraft (The M<sup>3</sup> combo).
-
-<a href="https://www.linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
+- ✒️ Sometimes I write poetry which you can find here <a href="https://www.instagram.com/itchybrainpoet/" target="_blank"><img alt="instagram" height="21px" width="21px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/instagram-icon.svg"/><i>@itchybrainpoet</i></a>
+<a href="https://www.linkedin.com/in/shivang-dubey-570799190/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
+<a href = "mailto: shivangdubey9900@gmail.com"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-gmail.svg"/></a>
 
 ##
 
