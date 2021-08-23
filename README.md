@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [shivang02/CryptoSingh1337](https://github.com/shivang02/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
-2. 📔 Created new repository [shivang02/shivang02](https://github.com/shivang02/shivang02)
-3. 🔱 Forked [shivang02/youtube](https://github.com/shivang02/youtube) from [safak/youtube](https://github.com/safak/youtube)
-4. ⭐ Starred [safak/youtube](https://github.com/safak/youtube)
-5. ⭐ Starred [shivang02/FaceMouse](https://github.com/shivang02/FaceMouse)
+1. 📔 Created new repository [shivang02/metaExtract](https://github.com/shivang02/metaExtract)
+2. 📔 Created new repository [shivang02/metaExtract](https://github.com/shivang02/metaExtract)
+3. 🔱 Forked [shivang02/CryptoSingh1337](https://github.com/shivang02/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
+4. 📔 Created new repository [shivang02/shivang02](https://github.com/shivang02/shivang02)
+5. 🔱 Forked [shivang02/youtube](https://github.com/shivang02/youtube) from [safak/youtube](https://github.com/safak/youtube)
 <!--RECENT_ACTIVITY:end-->
