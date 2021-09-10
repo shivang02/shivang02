@@ -22,8 +22,8 @@
 <div align="center">
 <code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
 <code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
-<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
-  <code><img alt="React" width="40px" height="40px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" title="React" ></code>
+<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" title="JavaScript"/></code>
+ <code><img alt="React" width="40px" height="40px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" title="React" ></code>
 <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
 <code><img alt="Python" width="40px" height="40px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" title="Python" ></code>
 </div>
