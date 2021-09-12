@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [shivang02/cult.fit_clone](https://github.com/shivang02/cult.fit_clone)
-2. 📔 Created new repository [shivang02/mytravelpage](https://github.com/shivang02/mytravelpage)
-3. 🔱 Forked [shivang02/omnimatte](https://github.com/shivang02/omnimatte) from [erikalu/omnimatte](https://github.com/erikalu/omnimatte)
-4. ⭐ Starred [erikalu/omnimatte](https://github.com/erikalu/omnimatte)
-5. 📔 Created new repository [shivang02/metaExtract](https://github.com/shivang02/metaExtract)
+1. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ⭐ Starred [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🎉 Merged PR [#1](https://github.com/shivang02/drum-kit/pull/1) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
+4. 🎉 Merged PR [#2](https://github.com/shivang02/drum-kit/pull/2) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
+5. 🎉 Merged PR [#3](https://github.com/shivang02/drum-kit/pull/3) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
 <!--RECENT_ACTIVITY:end-->
