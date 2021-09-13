@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ⭐ Starred [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🎉 Merged PR [#1](https://github.com/shivang02/drum-kit/pull/1) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
-4. 🎉 Merged PR [#2](https://github.com/shivang02/drum-kit/pull/2) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
-5. 🎉 Merged PR [#3](https://github.com/shivang02/drum-kit/pull/3) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
+1. 📔 Created new repository [shivang02/simongame](https://github.com/shivang02/simongame)
+2. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. ⭐ Starred [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🎉 Merged PR [#1](https://github.com/shivang02/drum-kit/pull/1) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
+5. 🎉 Merged PR [#2](https://github.com/shivang02/drum-kit/pull/2) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
 <!--RECENT_ACTIVITY:end-->
