@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shivang02/cult.fit_clone](https://github.com/shivang02/cult.fit_clone)
-2. 📔 Created new repository [shivang02/simongame](https://github.com/shivang02/simongame)
-3. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. ⭐ Starred [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-5. 🎉 Merged PR [#1](https://github.com/shivang02/drum-kit/pull/1) in [shivang02/drum-kit](https://github.com/shivang02/drum-kit)
+1. 📔 Created new repository [shivang02/netflix_clone](https://github.com/shivang02/netflix_clone)
+2. ⭐ Starred [shivang02/cult.fit_clone](https://github.com/shivang02/cult.fit_clone)
+3. 📔 Created new repository [shivang02/simongame](https://github.com/shivang02/simongame)
+4. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+5. ⭐ Starred [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--RECENT_ACTIVITY:end-->
