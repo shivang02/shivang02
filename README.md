@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [shivang02/note_taking_app](https://github.com/shivang02/note_taking_app)
-2. 📔 Created new repository [shivang02/netflix_clone](https://github.com/shivang02/netflix_clone)
-3. ⭐ Starred [shivang02/cult.fit_clone](https://github.com/shivang02/cult.fit_clone)
-4. 📔 Created new repository [shivang02/simongame](https://github.com/shivang02/simongame)
-5. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🤝 Became collaborator on [shivang02/youtube](https://github.com/shivang02/youtube)
+2. 📔 Created new repository [shivang02/note_taking_app](https://github.com/shivang02/note_taking_app)
+3. 📔 Created new repository [shivang02/netflix_clone](https://github.com/shivang02/netflix_clone)
+4. ⭐ Starred [shivang02/cult.fit_clone](https://github.com/shivang02/cult.fit_clone)
+5. 📔 Created new repository [shivang02/simongame](https://github.com/shivang02/simongame)
 <!--RECENT_ACTIVITY:end-->
