@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4403](https://github.com/girlscript/winter-of-contributing/pull/4403) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 📔 Created new repository [shivang02/weather-app](https://github.com/shivang02/weather-app)
-3. 🤝 Became collaborator on [shivang02/youtube](https://github.com/shivang02/youtube)
-4. 📔 Created new repository [shivang02/note_taking_app](https://github.com/shivang02/note_taking_app)
-5. 📔 Created new repository [shivang02/netflix_clone](https://github.com/shivang02/netflix_clone)
+1. 📔 Created new repository [shivang02/MongoToDoApp](https://github.com/shivang02/MongoToDoApp)
+2. 💪 Opened PR [#4403](https://github.com/girlscript/winter-of-contributing/pull/4403) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 📔 Created new repository [shivang02/weather-app](https://github.com/shivang02/weather-app)
+4. 🤝 Became collaborator on [shivang02/youtube](https://github.com/shivang02/youtube)
+5. 📔 Created new repository [shivang02/note_taking_app](https://github.com/shivang02/note_taking_app)
 <!--RECENT_ACTIVITY:end-->
