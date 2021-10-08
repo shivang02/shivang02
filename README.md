@@ -35,9 +35,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5002](https://github.com/girlscript/winter-of-contributing/pull/5002) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ❌ Closed PR [#4544](https://github.com/girlscript/winter-of-contributing/pull/4544) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 💪 Opened PR [#4544](https://github.com/girlscript/winter-of-contributing/pull/4544) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. ❌ Closed PR [#4403](https://github.com/girlscript/winter-of-contributing/pull/4403) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-5. 📔 Created new repository [shivang02/MongoToDoApp](https://github.com/shivang02/MongoToDoApp)
+1. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 💪 Opened PR [#5002](https://github.com/girlscript/winter-of-contributing/pull/5002) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. ❌ Closed PR [#4544](https://github.com/girlscript/winter-of-contributing/pull/4544) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 💪 Opened PR [#4544](https://github.com/girlscript/winter-of-contributing/pull/4544) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+5. ❌ Closed PR [#4403](https://github.com/girlscript/winter-of-contributing/pull/4403) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--RECENT_ACTIVITY:end-->
