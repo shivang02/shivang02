@@ -1,43 +1,49 @@
-# Hi there, My name is Shivang Dubey🙏
+# Hi there, I'm Shivang Dubey 👋
 
-<div align="center">
-<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="360px" width="640px" alt="gif"/>
-</div>
+### 👨‍💻 Associate Software Engineer at Shell | AI Enthusiast | Python Developer
 
-## I'm a Student at Amity University, Noida!<img src="https://komarev.com/ghpvc/?username=shivang02" alt="counter" align="right"/>
+I am a software professional based in **Bengaluru, India**, currently working at **Shell India Markets Pvt Ltd**. While my day-to-day involves navigating the **Salesforce** ecosystem, my passion lies in building intelligent systems with **Python** and exploring the frontiers of **Artificial Intelligence**.
 
-- 🔭 I’m currently working on developing my coding skills and making projects!
-- 🌱 I’m currently learning Machine Learning and AWS.
-- ⚡ Fun fact: I enjoy Movies, Manga and Minecraft (The M<sup>3</sup> combo).
-- ✒️ Sometimes I write poetry which you can find here <a href="https://www.instagram.com/itchybrainpoet/" target="_blank">@itchybrainpoet</a>
-<br><br>
+---
 
-## Social Links
+### 🚀 Professional Journey & Focus
+- **Current Role:** Associate Software Engineer @ **Shell** (Since 2023).
+- **Core Expertise:** Salesforce Development & Cloud Solutions.
+- **Deep Diving Into:** Machine Learning, Neural Networks, and Generative AI.
+- **Goal:** Bridging the gap between enterprise CRM solutions and cutting-edge AI.
 
-<a href="https://www.linkedin.com/in/shivang-dubey-570799190/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href = "mailto: shivangdubey9900@gmail.com"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-gmail.svg"/></a>
+---
 
-### Technologies and Tools:
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-<code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
-<code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
-<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" title="JavaScript"/></code>
- <code><img alt="React" width="40px" height="40px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" title="React" ></code>
-<code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
-<code><img alt="Python" width="40px" height="40px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" title="Python" ></code>
-</div>
-<br>
-<div align="center">
-<img  alt="Shivang's Stats" src="https://github-readme-stats.vercel.app/api?username=shivang02&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Enterprise** | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-Cloud-blue?style=for-the-badge) |
+| **AI / Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
-### ⚡ Recent GitHub Activity
+---
 
-<!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#5002](https://github.com/girlscript/winter-of-contributing/pull/5002) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 💪 Opened PR [#5114](https://github.com/girlscript/winter-of-contributing/pull/5114) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🔱 Forked [shivang02/winter-of-contributing](https://github.com/shivang02/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 💪 Opened PR [#5002](https://github.com/girlscript/winter-of-contributing/pull/5002) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-5. ❌ Closed PR [#4544](https://github.com/girlscript/winter-of-contributing/pull/4544) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-<!--RECENT_ACTIVITY:end-->
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shivang02&show_icons=true&theme=tokyonight" alt="Shivang's GitHub stats" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang02&layout=compact&theme=tokyonight" alt="Top Langs" height="150px"/>
+</p>
+
+---
+
+### ⚡ Beyond the Code
+- **The M³ Combo:** Huge fan of **M**ovies, **M**anga, and **M**inecraft.
+- **Poetry:** I occasionally vent my creative side through words. You can read my work here: [@itchybrainpoet](https://www.instagram.com/itchybrainpoet/).
+- **Fun Fact:** I believe that any problem can be solved with enough coffee and the right Python library.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/shivang-dubey-570799190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivangdubey9900@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=shivang02&color=blue" alt="visitor counter" align="right"/>
