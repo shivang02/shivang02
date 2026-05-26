@@ -27,8 +27,7 @@ I am a software professional based in **Bengaluru, India**, currently working at
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shivang02&show_icons=true&theme=tokyonight" alt="Shivang's GitHub stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang02&layout=compact&theme=tokyonight" alt="Top Langs" height="150px"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivang02&layout=compact&theme=tokyonight" alt="Top Langs" height="150px"/>
 </p>
 
 ---
