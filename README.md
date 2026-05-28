@@ -1,6 +1,6 @@
 # Hi there, I'm Shivang Dubey 👋
 
-### 👨‍💻 Associate Software Engineer at Shell | AI Enthusiast | Python Developer
+### 👨‍💻 Software Engineer at Shell | AI Enthusiast | Python Developer
 
 I am a software professional based in **Bengaluru, India**, currently working at **Shell India Markets Pvt Ltd**. While my day-to-day involves navigating the **Salesforce** ecosystem, my passion lies in building intelligent systems with **Python** and exploring the frontiers of **Artificial Intelligence**.
 
